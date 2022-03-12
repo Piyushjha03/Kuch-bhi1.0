@@ -1,0 +1,11 @@
+
+.cont
+{
+    height: 20cm;
+    width: 100%;
+    style="width: 100px; height: 50px; object-fit: contain;"
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 150px;
+    padding-left: 80px;
+ }
